@@ -48,7 +48,7 @@ To use the bot, simply enter this website:
 https://bot.dialogflow.com/e569b05d-41d6-4b00-bc1d-aed32f2d21b0
 
 Some background: The bot is using a public API from worldweatheronline that gives updated information about the weather from cities around the world. 
-So recieve this information you can use different command, for example: "weather forecast in Oslo for tomorrow". 
+To recieve this information you can use different command, for example: "weather forecast in Oslo for tomorrow". 
 You can also ask the bot for it's name where it will ask for your name as well. 
 
 In the github repository you will find index.js which is the JavaScript file for the chatbot, and oppgave1.java which is the answer for the first taks. 
