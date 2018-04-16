@@ -5,12 +5,19 @@ You will wind the answer for task 1 in "oppgave1.java".
 
 # -----Sample conversation----
 User: Hello!
+
 Bot: Hello! I'll help you with the weather, try asking things like "weather forecast in Oslo tomorrow" and I'll do my best to help you ;)
+
 User: what is your name?
+
 Bot: My name is weatherbot, what is yours?
+
 User: Oskar
+
 Bot: Nice to meet you Oskar!
+
 User: weather in Oslo tomorrow
+
 Bot: Current conditions in the City Oslo, Norway are Partly cloudy with a projected high of 11°C or 52°F and a low of 5°C or 42°F on 2018-04-17.
 
 # ---Why I chose this framework----
