@@ -36,4 +36,4 @@ Some background: The bot is using a public API from worldweatheronline that give
 So recieve this information you can use different command, for example: "weather forecast in Oslo for tomorrow". 
 You can also ask the bot for it's name where it will ask for your name as well. 
 
-I will also include the JavaScript code in the github repository where you will also find the file for task 1. 
+In the github repository you will find index.js which is the JavaScript file for the chatbot, and oppgave1.java which is the answer for the first taks. 
